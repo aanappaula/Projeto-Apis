@@ -1,0 +1,10 @@
+@import "./base.css";
+
+h1{
+  color:black;
+  text-align: center;
+}
+
+buscar{
+  align-items: center;
+}
